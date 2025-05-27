@@ -7,7 +7,7 @@ import {
   InfoWindow,
 } from "@react-google-maps/api";
 import GazaCities from "./data/gaza.json";
-import mapStyles from "./mapStyles";
+import { mapStyles } from "./mapStyles";
 
 const containerStyle = {
   width: "100vw",

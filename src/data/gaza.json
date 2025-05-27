@@ -1,0 +1,25 @@
+{
+    "cities":[
+        {
+            "CITY_ID": 1,
+            "NAME" : "Gaza City",
+            "DESCRIPTION": "Called Gaza City, is a city in the Gaza Strip, Palestine, and the capital of the Gaza Governorate",
+            "LATITUDE": 31.410120,
+            "LONGITUDE": 34.393391            
+        },
+        {
+            "CITY_ID": 2,
+            "NAME" : "Khan Yunis",
+            "DESCRIPTION": "Khan Yunis is the second largest urban area in the Gaza Strip after Gaza City",
+            "LATITUDE": 31.346201,
+            "LONGITUDE": 34.304001
+        },
+        {
+            "CITY_ID": 3,
+            "NAME" : "Rafah",
+            "DESCRIPTION": "Rafah is the site of the Rafah Border Crossing, the sole crossing point between Egypt and the Gaza Strip",
+            "LATITUDE": 31.278910,
+            "LONGITUDE": 34.255901
+        }
+    ]
+}
